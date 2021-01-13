@@ -1,7 +1,7 @@
 # pycpu
 
 Code for the pyCPU simulator. 
-Conceived as a tool in the study of study basic microprocessor concepts
+Conceived as a tool in the study of basic microprocessor concepts
 in the context of an introductory course to computers, using Python.
 
 start demoCPU.py
