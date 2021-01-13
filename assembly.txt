@@ -1,0 +1,7 @@
+load 6 
+subi 1 
+jmp_Z 4
+jmp 1  
+store 6
+halt 0
+2
