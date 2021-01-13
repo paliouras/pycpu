@@ -7,6 +7,7 @@ in the context of an introductory course to computers, using Python.
 start demoCPU.py
 It loads pycpu assembly stored in assembly.txt
 
-Practice your python skills by additing some file-explore-style functionality.
+Practice your python skills by, for example, adding some 
+file-explore-style functionality to read assembly files, etc.
 
 Several people have contributed to this project (TBA).
